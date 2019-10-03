@@ -1,0 +1,15 @@
+ePantalla
+	idPantalla;
+	nombre;
+	dir;
+	tipo;
+	precio;
+	isEmpty
+
+ePublicidad
+	idPublicidad;
+	cuit;
+	dias;
+	archivo;
+	idPantalla;
+	isEmpty;
